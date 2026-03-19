@@ -12,11 +12,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/piyush7983/DSA_daily/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/piyush7983/DSA_daily/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/piyush7983/DSA_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/piyush7983/DSA_daily/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/piyush7983/DSA_daily/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/piyush7983/DSA_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union-Find
@@ -27,6 +29,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/piyush7983/DSA_daily/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/piyush7983/DSA_daily/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/piyush7983/DSA_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Array
@@ -52,4 +55,8 @@
 |  |
 | ------- |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/piyush7983/DSA_daily/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
