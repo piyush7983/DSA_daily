@@ -32,8 +32,7 @@ class Solution {
                 } 
             }
         }
-        //System.out.println(c);
-
+        
         return c==V ?  ans: new int[]{}; 
     }
 }
