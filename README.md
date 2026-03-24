@@ -40,6 +40,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush7983/DSA_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush7983/DSA_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/piyush7983/DSA_daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/piyush7983/DSA_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush7983/DSA_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush7983/DSA_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/piyush7983/DSA_daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Greedy
 |  |
