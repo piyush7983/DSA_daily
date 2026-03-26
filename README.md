@@ -38,6 +38,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/piyush7983/DSA_daily/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush7983/DSA_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush7983/DSA_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/piyush7983/DSA_daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -57,6 +58,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/piyush7983/DSA_daily/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush7983/DSA_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Matrix
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/piyush7983/DSA_daily/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
