@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush7983/DSA_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/piyush7983/DSA_daily/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 <!---LeetCode Topics End-->
