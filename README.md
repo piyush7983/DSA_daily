@@ -45,6 +45,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush7983/DSA_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/piyush7983/DSA_daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0303-range-sum-query-immutable](https://github.com/piyush7983/DSA_daily/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/piyush7983/DSA_daily/tree/master/0307-range-sum-query-mutable) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/piyush7983/DSA_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -101,4 +102,17 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/piyush7983/DSA_daily/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/piyush7983/DSA_daily/tree/master/0307-range-sum-query-mutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/piyush7983/DSA_daily/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/piyush7983/DSA_daily/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/piyush7983/DSA_daily/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
