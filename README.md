@@ -47,6 +47,7 @@
 | [0303-range-sum-query-immutable](https://github.com/piyush7983/DSA_daily/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/piyush7983/DSA_daily/tree/master/0307-range-sum-query-mutable) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/piyush7983/DSA_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
@@ -121,5 +122,10 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/piyush7983/DSA_daily/tree/master/0657-robot-return-to-origin) |
+| [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/piyush7983/DSA_daily/tree/master/2197-decode-the-slanted-ciphertext) |
+## Hash Table
+|  |
+| ------- |
+| [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
 <!---LeetCode Topics End-->
