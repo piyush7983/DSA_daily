@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush7983/DSA_daily/tree/master/0011-container-with-most-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyush7983/DSA_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush7983/DSA_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -127,5 +128,10 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyush7983/DSA_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/piyush7983/DSA_daily/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
