@@ -86,6 +86,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/piyush7983/DSA_daily/tree/master/1212-sequential-digits) |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
 ## Two Pointers
 |  |
