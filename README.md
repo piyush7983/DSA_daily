@@ -51,6 +51,7 @@
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/piyush7983/DSA_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/piyush7983/DSA_daily/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/piyush7983/DSA_daily/tree/master/0307-range-sum-query-mutable) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/piyush7983/DSA_daily/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0657-robot-return-to-origin](https://github.com/piyush7983/DSA_daily/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/piyush7983/DSA_daily/tree/master/2197-decode-the-slanted-ciphertext) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/piyush7983/DSA_daily/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
