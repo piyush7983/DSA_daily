@@ -52,6 +52,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/piyush7983/DSA_daily/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/piyush7983/DSA_daily/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush7983/DSA_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/piyush7983/DSA_daily/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
 | ------- |
