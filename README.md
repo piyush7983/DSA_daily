@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/piyush7983/DSA_daily/tree/master/0390-elimination-game) |
+| [4168-mirror-distance-of-an-integer](https://github.com/piyush7983/DSA_daily/tree/master/4168-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
