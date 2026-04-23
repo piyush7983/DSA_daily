@@ -53,6 +53,7 @@
 | [1975-minimum-distance-to-the-target-element](https://github.com/piyush7983/DSA_daily/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/piyush7983/DSA_daily/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/piyush7983/DSA_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/piyush7983/DSA_daily/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/piyush7983/DSA_daily/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -74,6 +75,7 @@
 | [0680-valid-palindrome-ii](https://github.com/piyush7983/DSA_daily/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/piyush7983/DSA_daily/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/piyush7983/DSA_daily/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Matrix
 |  |
 | ------- |
