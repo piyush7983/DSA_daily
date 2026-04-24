@@ -119,6 +119,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/piyush7983/DSA_daily/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/piyush7983/DSA_daily/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/piyush7983/DSA_daily/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/piyush7983/DSA_daily/tree/master/3019-furthest-point-from-origin) |
 ## Design
 |  |
 | ------- |
@@ -163,4 +164,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush7983/DSA_daily/tree/master/0084-largest-rectangle-in-histogram) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/piyush7983/DSA_daily/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
