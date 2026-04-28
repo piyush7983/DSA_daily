@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/piyush7983/DSA_daily/tree/master/0390-elimination-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [4168-mirror-distance-of-an-integer](https://github.com/piyush7983/DSA_daily/tree/master/4168-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
@@ -57,6 +58,7 @@
 | [1975-minimum-distance-to-the-target-element](https://github.com/piyush7983/DSA_daily/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/piyush7983/DSA_daily/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/piyush7983/DSA_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/piyush7983/DSA_daily/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
@@ -85,6 +87,7 @@
 | ------- |
 | [1663-detect-cycles-in-2d-grid](https://github.com/piyush7983/DSA_daily/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/piyush7983/DSA_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
 ## Prefix Sum
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [3019-furthest-point-from-origin](https://github.com/piyush7983/DSA_daily/tree/master/3019-furthest-point-from-origin) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
