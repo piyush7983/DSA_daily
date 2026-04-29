@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/piyush7983/DSA_daily/tree/master/0048-rotate-image) |
 | [0390-elimination-game](https://github.com/piyush7983/DSA_daily/tree/master/0390-elimination-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [4168-mirror-distance-of-an-integer](https://github.com/piyush7983/DSA_daily/tree/master/4168-mirror-distance-of-an-integer) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush7983/DSA_daily/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/piyush7983/DSA_daily/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush7983/DSA_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush7983/DSA_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush7983/DSA_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -85,6 +87,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/piyush7983/DSA_daily/tree/master/0048-rotate-image) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/piyush7983/DSA_daily/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/piyush7983/DSA_daily/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
