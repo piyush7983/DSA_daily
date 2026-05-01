@@ -70,6 +70,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/piyush7983/DSA_daily/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush7983/DSA_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush7983/DSA_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/piyush7983/DSA_daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -125,6 +126,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/piyush7983/DSA_daily/tree/master/0022-generate-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/piyush7983/DSA_daily/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/piyush7983/DSA_daily/tree/master/0680-valid-palindrome-ii) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/piyush7983/DSA_daily/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/piyush7983/DSA_daily/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
