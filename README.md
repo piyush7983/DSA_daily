@@ -192,4 +192,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyush7983/DSA_daily/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/piyush7983/DSA_daily/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
