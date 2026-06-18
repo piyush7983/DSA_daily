@@ -199,4 +199,5 @@
 | [0176-second-highest-salary](https://github.com/piyush7983/DSA_daily/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/piyush7983/DSA_daily/tree/master/0177-nth-highest-salary) |
 | [0584-find-customer-referee](https://github.com/piyush7983/DSA_daily/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/piyush7983/DSA_daily/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
