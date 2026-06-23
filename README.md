@@ -131,6 +131,7 @@
 | [0022-generate-parentheses](https://github.com/piyush7983/DSA_daily/tree/master/0022-generate-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/piyush7983/DSA_daily/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/piyush7983/DSA_daily/tree/master/0680-valid-palindrome-ii) |
+| [1297-maximum-number-of-balloons](https://github.com/piyush7983/DSA_daily/tree/master/1297-maximum-number-of-balloons) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/piyush7983/DSA_daily/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/piyush7983/DSA_daily/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/piyush7983/DSA_daily/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush7983/DSA_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
+| [1297-maximum-number-of-balloons](https://github.com/piyush7983/DSA_daily/tree/master/1297-maximum-number-of-balloons) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/piyush7983/DSA_daily/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/piyush7983/DSA_daily/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
@@ -183,6 +185,7 @@
 ## Counting
 |  |
 | ------- |
+| [1297-maximum-number-of-balloons](https://github.com/piyush7983/DSA_daily/tree/master/1297-maximum-number-of-balloons) |
 | [3019-furthest-point-from-origin](https://github.com/piyush7983/DSA_daily/tree/master/3019-furthest-point-from-origin) |
 ## Sorting
 |  |
