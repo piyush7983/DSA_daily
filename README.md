@@ -55,6 +55,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/piyush7983/DSA_daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0303-range-sum-query-immutable](https://github.com/piyush7983/DSA_daily/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/piyush7983/DSA_daily/tree/master/0307-range-sum-query-mutable) |
+| [0643-maximum-average-subarray-i](https://github.com/piyush7983/DSA_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/piyush7983/DSA_daily/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -208,4 +209,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/piyush7983/DSA_daily/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/piyush7983/DSA_daily/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/piyush7983/DSA_daily/tree/master/1827-invalid-tweets) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/piyush7983/DSA_daily/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
