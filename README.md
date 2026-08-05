@@ -20,6 +20,7 @@
 | [0547-number-of-provinces](https://github.com/piyush7983/DSA_daily/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/piyush7983/DSA_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/piyush7983/DSA_daily/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3561-remove-methods-from-project](https://github.com/piyush7983/DSA_daily/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0547-number-of-provinces](https://github.com/piyush7983/DSA_daily/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/piyush7983/DSA_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/piyush7983/DSA_daily/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3561-remove-methods-from-project](https://github.com/piyush7983/DSA_daily/tree/master/3561-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0210-course-schedule-ii](https://github.com/piyush7983/DSA_daily/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/piyush7983/DSA_daily/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/piyush7983/DSA_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [3561-remove-methods-from-project](https://github.com/piyush7983/DSA_daily/tree/master/3561-remove-methods-from-project) |
 ## Array
 |  |
 | ------- |
