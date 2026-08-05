@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/piyush7983/DSA_daily/tree/master/0048-rotate-image) |
 | [0390-elimination-game](https://github.com/piyush7983/DSA_daily/tree/master/0390-elimination-game) |
+| [0909-stone-game](https://github.com/piyush7983/DSA_daily/tree/master/0909-stone-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [4168-mirror-distance-of-an-integer](https://github.com/piyush7983/DSA_daily/tree/master/4168-mirror-distance-of-an-integer) |
 ## Recursion
@@ -61,6 +62,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/piyush7983/DSA_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
+| [0909-stone-game](https://github.com/piyush7983/DSA_daily/tree/master/0909-stone-game) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/piyush7983/DSA_daily/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/piyush7983/DSA_daily/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/piyush7983/DSA_daily/tree/master/1984-maximum-distance-between-a-pair-of-values) |
@@ -81,6 +83,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/piyush7983/DSA_daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/piyush7983/DSA_daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/piyush7983/DSA_daily/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0909-stone-game](https://github.com/piyush7983/DSA_daily/tree/master/0909-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -216,4 +219,16 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/piyush7983/DSA_daily/tree/master/0643-maximum-average-subarray-i) |
+## Minimax
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/piyush7983/DSA_daily/tree/master/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/piyush7983/DSA_daily/tree/master/0909-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/piyush7983/DSA_daily/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
