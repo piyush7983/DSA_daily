@@ -143,6 +143,7 @@
 | [2197-decode-the-slanted-ciphertext](https://github.com/piyush7983/DSA_daily/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/piyush7983/DSA_daily/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-furthest-point-from-origin](https://github.com/piyush7983/DSA_daily/tree/master/3019-furthest-point-from-origin) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/piyush7983/DSA_daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Design
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush7983/DSA_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
 | [1297-maximum-number-of-balloons](https://github.com/piyush7983/DSA_daily/tree/master/1297-maximum-number-of-balloons) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/piyush7983/DSA_daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/piyush7983/DSA_daily/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/piyush7983/DSA_daily/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/piyush7983/DSA_daily/tree/master/0643-maximum-average-subarray-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/piyush7983/DSA_daily/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Minimax
 |  |
 | ------- |
