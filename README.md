@@ -72,6 +72,7 @@
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/piyush7983/DSA_daily/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/piyush7983/DSA_daily/tree/master/3849-equal-sum-grid-partition-i) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/piyush7983/DSA_daily/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyush7983/DSA_daily/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/piyush7983/DSA_daily/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/piyush7983/DSA_daily/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
@@ -234,4 +235,8 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/piyush7983/DSA_daily/tree/master/0909-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyush7983/DSA_daily/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
