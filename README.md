@@ -55,6 +55,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/piyush7983/DSA_daily/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/piyush7983/DSA_daily/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/piyush7983/DSA_daily/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/piyush7983/DSA_daily/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush7983/DSA_daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush7983/DSA_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyush7983/DSA_daily/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/piyush7983/DSA_daily/tree/master/0049-group-anagrams) |
 | [0657-robot-return-to-origin](https://github.com/piyush7983/DSA_daily/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/piyush7983/DSA_daily/tree/master/0680-valid-palindrome-ii) |
 | [1297-maximum-number-of-balloons](https://github.com/piyush7983/DSA_daily/tree/master/1297-maximum-number-of-balloons) |
@@ -184,6 +186,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/piyush7983/DSA_daily/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush7983/DSA_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/piyush7983/DSA_daily/tree/master/0217-contains-duplicate) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
@@ -211,6 +214,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/piyush7983/DSA_daily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/piyush7983/DSA_daily/tree/master/0217-contains-duplicate) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/piyush7983/DSA_daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Backtracking
