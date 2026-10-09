@@ -38,6 +38,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/piyush7983/DSA_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/piyush7983/DSA_daily/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/piyush7983/DSA_daily/tree/master/0547-number-of-provinces) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/piyush7983/DSA_daily/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -61,6 +62,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush7983/DSA_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush7983/DSA_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/piyush7983/DSA_daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/piyush7983/DSA_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/piyush7983/DSA_daily/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush7983/DSA_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/piyush7983/DSA_daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/piyush7983/DSA_daily/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/piyush7983/DSA_daily/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/piyush7983/DSA_daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/piyush7983/DSA_daily/tree/master/0217-contains-duplicate) |
 | [0906-walking-robot-simulation](https://github.com/piyush7983/DSA_daily/tree/master/0906-walking-robot-simulation) |
